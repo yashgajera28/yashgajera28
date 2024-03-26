@@ -21,7 +21,7 @@ I'm a passionate software developer. I'm creating my own digital world little by
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 <br>
 
----
+#
 
 ### Currently Exploring:      
 
